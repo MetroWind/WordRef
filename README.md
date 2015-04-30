@@ -1,6 +1,6 @@
 # WordRef
 
-![Screenshot](https://raw.github.com/Corsair/wordref/master/shot.png)
+![Screenshot](https://github.com/Corsair/WordRef/raw/master/screenshot.png)
 
 A Mac program to import BibTeX files into Micro$oft Word’s citation manager.
 
