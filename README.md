@@ -4,12 +4,12 @@
 
 A Mac program to import BibTeX files into Micro$oft Word’s citation manager.
 
-## About the citation management on Word
+## About citation management on Word
 
 So, you are a scientific person who wants to write a paper, but not
 *so* scientific to use LaTeX.  You look at all those citation manager
-choices like Papers, Mendaley, EndNote, etc., and realize that only
-EndNote *sort of* integrate with Word.  But you don’t want EndNote,
+choices like Papers, Mendeley, EndNote, etc., and realize that only
+EndNote *sort of* integrates with Word.  But you don’t want EndNote,
 because it’s ugly, heavy, not native on Mac, and expensive, and worst
 of all, doesn’t support exporting to/importing from BibTeX.  You raise
 your head and look at the calendar—it’s 2015 now, and there’s a
@@ -23,7 +23,7 @@ tutorials and start to learn LaTeX.  And suddenly you realize that
 wait a minute, Word’s citation manager uses a XML to store all the
 information, and a BibTeX file is just plain text.  What stops you
 from using a program to convert a BibTeX to XML?  Exactly nothing!
-Especially when this program opens the correct XML for you when you
+Especially when that program opens the correct XML for you when you
 run it, and you can just drag a BibTeX file onto it, click save, and
 start doing your thing in Word.
 
